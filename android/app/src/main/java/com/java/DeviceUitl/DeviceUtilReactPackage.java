@@ -1,6 +1,6 @@
 package com.java.DeviceUitl;
 
-import android.view.ViewManager;
+//import android.view.ViewManager;
 
 import java.util.Collections;
 import java.util.ArrayList;
@@ -14,6 +14,7 @@ import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
+import com.facebook.react.uimanager.ViewManager;
 
 /**
  * Created by wsj on 16/10/18.
