@@ -19,7 +19,7 @@ import com.facebook.react.uimanager.ViewManager;
 /**
  * Created by wsj on 16/10/18.
  */
-class DeviceUtilReactPackage implements ReactPackage {
+public class DeviceUtilReactPackage implements ReactPackage {
     @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
